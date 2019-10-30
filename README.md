@@ -3,4 +3,4 @@
 
 ### words
 
-[doc](#https://jindada1.github.io/review/Words)
+[doc](https://jindada1.github.io/review/Words)
