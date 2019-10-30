@@ -155,8 +155,3 @@ $(document).ready(function () {
 $(window).resize(function () {
     $("#AnchorContent").css('max-height', ($(window).height() - 80) + 'px');
 });
-
-
-//插入title的ico图标  
-var ico_link = "<link rel=icon type=image/png sizes=32x32 href=2html/ico.png>";
-$("head").prepend(ico_link);
