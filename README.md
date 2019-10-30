@@ -7,8 +7,8 @@
 
 ### phrases
 
-[doc](https://jindada1.github.io/review/Phrases)
+[doc](https://jindada1.github.io/review/posts/Phrases)
 
 ### SE
 
-[doc](https://jindada1.github.io/review/software-En)
+[doc](https://jindada1.github.io/review/posts/software-En)
