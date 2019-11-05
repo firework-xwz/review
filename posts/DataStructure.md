@@ -1957,7 +1957,7 @@ void Merge(Type A[], int low, int mid, int high){
 
 ### 总结与比较
 
-![img](assets/assets%2F-Lm9JtwbhXVOfXyecToy%2F-Lm9KQIJAMvCgJQzErQS%2F-Lm9KSPi7v-ygMtlI6Zr%2Fsort.png)
+![img](assets/compare.png)
 
 
 
