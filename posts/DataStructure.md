@@ -115,7 +115,7 @@ process：
 
 > 参考思路：将原串分成两个字串【0，p-1】和【p，n】，记将【1，2，3】反转为【3，2，1】的操作为Reverse，则 Reverse【Reverse【0，p-1】，Reverse【p，n】】即为循环左移的结果
 
-```C
+```c
 void Reverse(int R[], int from, int to){
     int temp;
     while(from < to){
