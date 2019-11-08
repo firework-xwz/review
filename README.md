@@ -15,5 +15,5 @@
 
 ### DataStructure
 
-[doc](https://jindada1.github.io/review/posts/DataStructure)
+[doc](https://jindada1.github.io/review/DataStructure)
 
