@@ -350,7 +350,7 @@ typedef struct{
 
 两端都可以入队和出队
 
-![img](assets/8695340-a988af946656c674.png)
+![img](assets/double-end-queue.png)
 
 给一个入队序列，要会判断哪些序列是可能的出对序列。
 
@@ -464,7 +464,7 @@ ps：这里最后一步的减法为什么是 21 - 5 而不是 5 - 21。再模拟
 
 长这样：【三条斜线】
 
-![img](assets/060828381f30e9247c9ee53947086e061d95f784.jpg)
+![img](assets/tridiagonal-matrix.jpg)
 
 行优先映射就完事儿了，只存这块斜带区域的值
 
@@ -1178,7 +1178,7 @@ tricks
 
 长这样👇
 
-![Orthogonal linked list](assets/Orthogona link list.png)
+![Orthogonal linked list](assets/orthogona-link-list.png)
 
 #### 邻接多重表（链式-无向）
 
@@ -1455,7 +1455,7 @@ void Floyd(G){
 
 顶点为事件，边为活动一个有向无环图，只有一个入度为 0 的点，一个出度为 0 的点，称这个图为AOE网络
 
-![Activity On Edge Network](assets/6b9d73c1f4e76e1cdd4d27df65ee1817.png)
+![Activity On Edge Network](assets/AOE-Network.png)
 
 + 事件的
     + 最早发生时间
