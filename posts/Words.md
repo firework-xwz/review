@@ -34,6 +34,66 @@ adj. 丰富的；充裕的；盛产 【*abundant in*】
 
 # C
 
+## cast
+
+vt. 抛；计算；[浇铸](#monument)；投影；投票
+
+n. 投掷，抛；铸件，演员阵容；脱落物
+
+vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
+
+> How can you **cast** me aside?
+>
+> 你怎么可以**抛弃**我呢
+
+**cast off**  摆脱；抛弃；解开
+
+##crus<>
+
+**crust**
+
+n. 地壳；外壳；面包皮；坚硬外皮
+
+vi. 结硬皮；结成外壳
+
+vt. 盖以硬皮；在…上结硬皮
+
+> Remove the dish from the <u>oven</u>, crack the salt **crust** and you will find the skin just <u>peels off</u> the fish
+>
+> 把盘子从<u>烤箱</u>中拿出来，弄碎表面那**层**盐后，鱼皮就可以从鱼身上<u>剥</u>下来了
+
+
+
+**crush**
+
+v. 挤压；将……塞进；镇压； 毁坏（某人的信心使某人失望）；征服（反抗或叛乱）；
+
+n. 拥挤的人群；迷恋；果汁饮料；
+
+have a **crush on** you：迷恋你
+
+**crushing**：adj. 惨烈的，猛烈的（批评）
+
+> Time would **crush** all the pain.
+>
+> 时间会粉碎一切痛苦
+
+
+
+## cruel
+
+adj. 残酷的，残忍的；无情的
+
+**cruelty**：n. 残酷，残忍的行为
+
+**cruelly**：adv. 残酷地；非常
+
+**cruelhearted**：adj. 绝情的；狠心的
+
+> After a **cruel** tongue（舌头，语言） [lashing](#lash), he threw the girl out of the group
+>
+> 一番严厉斥责后，他把这个女孩赶出了团队
+
 ## cult
 
 n：狂热的崇拜；邪教；宗教信仰
@@ -102,7 +162,82 @@ adv. 反向地；背道而驰地
 
 > Across the globe, reports claim that about 10% of all prescription（处方的） drugs could be **counterfeit**.
 
+## conceive
+
+vt. 怀孕；构思；以为；持有
+
+vi. 怀孕；设想；考虑
+
+**conceit**：n. 自负；狂妄；幻想； vt. 幻想
+
+**conceited**：adj. 自负的；狂妄的；逞能的
+
+**conceivable**：adj. 可以想象的；可相信的
+
+> He was [immensely](#immense) ambitious but unable to **conceive of** winning power for himself
+>
+> 他雄心勃勃，但是想不出自己能如何获取权力
+
 # D
+
+## denote
+
+vt. 表示，指示【外含，外漏，基本的】
+
+**denotation**：n. 符号；表示；意义；指示
+
+**denotative**：adj. 外延的；指示的
+
+区分：**connote**：vt. 意味着；言外之意【内含，含蓄的需要进一步分析抽象的】
+
+> <u>Phraseology</u> meaning includes **connotative** meaning and **denotative** meaning. 
+> <u>语词</u>意义包括内涵意义和外延意义；
+
+## deluted
+
+adj. 稀释的；无力的
+
+v. 稀释（dilute的过去分词）；使减低（效果）
+
+**dilution**：稀释，冲淡
+
+## depart
+
+vi. 离开；起程；违反；去世
+
+adj. 逝世的
+
+**departure**：n. 离开；出发；违背
+
+**departed**：adj. 已故的；以往的；n. 死者
+
+> A **departure** from the norm
+>
+> 一反常态
+
+##dr<>ft
+
+**draft**
+
+n. 汇票；草稿；选派
+
+vt. 起草；制定；征募；设计
+
+adj. 正在起草的
+
+
+
+**drift**
+
+n. 漂流，漂移；趋势；漂流物
+
+vi. 漂流，漂移；漂泊
+
+vt. 使…漂流；使…受风吹积
+
+> I follow the **drift** of her conversation
+>
+> 我能跟上她的斯必德（明白她的大意）
 
 ## diverse
 
@@ -127,14 +262,6 @@ n. 转移；消遣娱乐；分散注意力
 > The only thing which [consoles](#console) us for our miseries is **diversion**, and yet this is the greatest of our miseries
 >
 > 能够抚慰我们内心悲哀的唯一东西就是消遣，然而，它本身却是我们最大的悲哀
-
-## deluted
-
-adj. 稀释的；无力的
-
-v. 稀释（dilute的过去分词）；使减低（效果）
-
-**dilution**：稀释，冲淡
 
 ## dissolve
 
@@ -180,6 +307,20 @@ vi. 传播；四散
 
 通常散播，传播一些抽象的，比如消息，知识，可以和 [disperse](#disperse) 区别一下
 
+## diligent
+
+adj. 勤勉的；用功的，费尽心血的
+
+**diligence** = **diligency**：n. 勤勉；坚韧；
+
+**diligently**：adv. 勤奋地；勤勉地
+
+注意区分 [intelligent](#intelligent)
+
+> He was careful and **diligent**. I was all over the place
+>
+> 他细心而勤奋，我到处都是（稀里糊涂）
+
 # E
 
 ## enlist
@@ -217,6 +358,18 @@ vi. 夸大；夸张
 > <u>It is no **exaggeration** to say</u>, "United we stand, divided we fall"
 >
 > <u>毫不夸张地说</u>，合则存，分则灭
+
+## explicit
+
+adj. 明确的；清楚的；直率的；详述的
+
+**explicitness**：n. 直言不讳
+
+**explicitly**：adv. 明确地；明白地
+
+反义词：[implicit](#implicit)
+
+[例句](#implicit)
 
 # F
 
@@ -342,13 +495,105 @@ adj. 愤愤不平的；义愤的
 
 [例句](#preserve)
 
+## immense
+
+adj. 巨大的，广大的；无边无际的；非常好的
+
+**immensity**：n. 巨大，广大
+
+**immensely**：adv. 非常地，极大地，无限地
+
+**immensurable**：adj. 不可衡量的
+
+[例句](#conceive)
+
+## implicit
+
+adj. 含蓄的；暗示的；盲从的
+
+**implicitly**：adv. 含蓄地；暗中地；
+
+**implicity**：n. 含蓄
+
+反义词：[explicit](#explicit)
+
+> It is this **implicit** or [explicit](#explicit) reference to nature that fully justifies the use of word garden though in a "[liberated](#liberate)" sense,  to describe these [synthetic](#synthetic) constructions.
+>
+> 正是这种对自然的明确或含蓄的引用，充分证实了使用“花园”这个词来描述这些合成的建筑是合适的，尽管这有些“放荡不羁”的意味
+
+## intelligent
+
+adj. 智能的；聪明的；理解力强的
+
+**intelligence**：n. 智力；情报工作；情报机关
+
+**intelligible**：adj. 可理解的；明了的
+
+注意区分 [diligent](#diligent)
+
 # J
 
 # K
 
 # L
 
+## lash
+
+vt. 鞭打；冲击；甩动；扎捆；煽动；讽刺
+
+n. 鞭打；**睫毛**；鞭子；责骂；讽刺
+
+**lash out**：抨击，挥霍，对…发脾气，讽刺
+
+> If you lash out at someone, you're only making yourself more angry.
+
+[例句](#cruel)
+
+## liberate
+
+vt. 解放；放出；释放
+
+**liberation**：n. 释放；解放
+
+**liberated**：adj. 无拘束的；放纵的；不羁的；
+
+[例句](#implicit)
+
+## lot
+
+n. 份额；许多；命运；阄
+
+adv. 很，非常；
+
+pron. 大量，许多
+
+vt. 分组，把…划分成块（常与out连用）；
+
+vi. 抽签，拈阄
+
+> She felt a little more [reconciled](#reconcile) to her **lot**
+>
+> 她多少能接受一些自己的命运了
+>
+> He had dedicated his life to bettering the **lot** of the oppressed people of South Africa
+>
+> 他毕生致力于改善南非受压迫的人民的命运
+
 #M
+
+## monument
+
+n. 纪念碑；历史遗迹；不朽的作品
+
+vt. 为…树碑
+
+**monumentally**：adv. 非常；里程碑似地；
+
+**monumental**：adj. 不朽的；纪念碑的；非常的；巨大的
+
+> Eight **monumental** curving staircases of <u>granite</u> with 4,000 individually [cast](#cast) bronze <u>balusters</u> are capped by four skylight domes and two [stained](#stain) glass <u>rotundas</u>
+>
+> 八个巨大的弯曲的<u>花岗岩</u>楼梯和4000多个单独铸造的青铜<u>栏杆</u>，顶部有四个天窗圆顶和两个彩绘玻璃<u>圆形（建筑）</u>。
 
 ## mere
 
@@ -610,6 +855,18 @@ vt. 嵌镶板
 
 # R
 
+## reconcile
+
+vt. 使一致；使和解；调停，调解；使顺从
+
+**reconciled**：v. 和解；调解；能接受
+
+**reconcilement**：n. 调停；一致
+
+**reconciliation**：n. 和解；调和；和谐；自愿
+
+[例句](#lot)
+
 ## radical
 
 adj. 激进的；根本的；彻底的
@@ -676,6 +933,20 @@ vt. 怨恨；愤恨；厌恶
 [例句](#induce)
 
 # S
+
+## stain
+
+v. 玷污；败坏；给…上色
+
+n. 污点；瑕疵；着色剂
+
+**stained**：adj. 彩色的 ；沾了污渍的
+
+stained glass：彩绘玻璃
+
+**stainless**：不锈钢；防锈的
+
+[例句](#monument)
 
 ## suspect
 
@@ -848,6 +1119,18 @@ n. 斯莱克（人名）
 **slacker(s)**：懒鬼；拒服兵役者；混子
 
 > If he has a [reputation](#repute) for **slacking**, you might even be outraged（惹怒）
+
+## synthetic
+
+adj. 综合的；合成的，人造的
+
+n. 合成物
+
+**synthesis**：n. 合成体，综合
+
+**synthesize**： v. 合成
+
+[例句](#implicit)
 
 # T
 
