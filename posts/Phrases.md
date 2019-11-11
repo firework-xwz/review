@@ -122,3 +122,29 @@ We **deem** very **highly of** his talent
 
 他的否认**也没有**说服力
 
+
+
+He is the **rare bird**
+
+他就是**最靓的仔（an unusual person）**
+
+
+
+The group **in question** are a particular people
+
+**正在（被）讨论**的群体是一群特殊的人
+
+
+
+Only over the past 30 years have scholars examined history **from the bottom up**
+
+只在最近30年间学者们才开始**彻底的**研究这段历史
+
+
+
+The three-fifth formula handed Jefferson his **narrow victory** in the <u>presidential election</u> of 1800 by <u>inflating</u> the votes of the southern states
+
+“3/5方案” 使得南方的票数<u>激增（膨胀）</u>，为杰斐逊带来了1800年<u>总统大选</u>的**险胜**
+
+
+
